@@ -1,0 +1,21 @@
+.header{
+  color:fuchsia;
+  font-family:cursive;
+  background-color: dodgerblue;
+  }
+
+.imghead {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  border-color: deeppink;
+  padding: 5px;
+}
+}
+.list{
+  color:deeppink;
+}
+
+body {
+  background-color: aqua;
+  text-align: center;
+}
